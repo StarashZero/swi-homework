@@ -14,14 +14,14 @@ emmmm, 可是一直用编辑器也不是办法啊，有没有什么更智能的�
 并且值得一提的是，VS也提供了永久免费的版本，并且功能对于我们来说完全够用.  
 [点这传送到Visual Studio官网！](https://visualstudio.microsoft.com/zh-hans/)   
 找到合适版本下载即可   
-![](images/VS_Download.png)  
+![](images/lab01_images/VS_Download.png)  
 安装后，通关installer（第一次打开，自动跳出）安装想要的功能（C/C++,Python,HTML等)。  
-![](images/VS_Install.png) 
+![](images/lab01_images/VS_Install.png) 
 除了JAVA以外的大部分编程语言都可以在这找到。  
 安装完毕以后，点击创建新项目就可以开始编程了啦。 
 敲几行代码，点击上面的调试器，就可以运行了。 
-![](images/VS_Use.png) 
-![](images/VS_Run.png)  
+![](images/lab01_images/VS_Use.png) 
+![](images/lab01_images/VS_Run.png)  
 怎么样？是不是很简单？  
 附带几个常用的功能:  
 1. F5，调试。   
