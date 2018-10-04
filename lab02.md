@@ -39,7 +39,9 @@ title: 使用construct 2创造一个简易坦克大战
 
 到此这个简易的坦克大战就完成了！  
 并且可以初步的游玩。  
-![](images/lab02_images/game.png)
+![](images/lab02_images/game.png)  
+下面是试玩的gif  
+![](images/lab02_images/play.gif)
 
 ## 第六步-总结
 
