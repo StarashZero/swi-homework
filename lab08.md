@@ -8,7 +8,7 @@ title: X游戏设计
 （本次项目中的坦克大战使用项目二中的简易坦克大战）
 ## 游戏策划
 玩法(Gameplay)：玩家操作坦克击败敌方NPC，保护己方基地。 
-![](images\lab08_images\ways.png) 
+![](images\lab08_images\ways.png)  
 人设与道具（Game Sprites）：  
 1. Player:黄色小坦克，允许上下左右四个方向运动，只有一格血，可以向前发射炮弹。  
 ![](images\lab08_images\player.png)
