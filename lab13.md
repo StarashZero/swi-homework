@@ -25,4 +25,4 @@ title: 贪吃蛇实验报告
 
 ## 游戏文件  
 请参考extra目录  
-[snake](snake.c)
+[snake](extra/snake.c)
