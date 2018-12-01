@@ -63,10 +63,6 @@ int main() {
 //移动与吞食,isFood==1则进行吞食
 void snakeMove(int addX, int addY, int isFood) {
 	int temp1;
-	//非头部移动
-	for (temp1 = 0;temp1 < snakeLength - 1;temp1++) {
-		PLACE(temp1) = PLACE(temp1 + 1);
-	}
 
 	//是否吞食
 	if (!isFood)
@@ -75,7 +71,8 @@ void snakeMove(int addX, int addY, int isFood) {
 		snakeLength++;
 	}
 
-	//非头部坐标变化
+	//非头部移动与坐标变化
+	PLACE(0) = SNAKE_BODY;
 	for (temp1 = snakeLength - 1;temp1 > 0;temp1--) {
 		snakePlace[0][temp1] = snakePlace[0][temp1 - 1];
 		snakePlace[1][temp1] = snakePlace[1][temp1 - 1];
